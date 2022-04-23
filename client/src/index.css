@@ -1,0 +1,27 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    padding-left: 5px !important;
+}
+
+input[type="text"]+label,
+input[type="email"]+label,
+input[type="password"]+label {
+    color: #FFFFFF !important;
+}
+
+.link-card {
+    border: 1px solid #333;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+.link-card p {
+    color: green;
+}
+
+.link-card p strong {
+    color: gray;
+}
