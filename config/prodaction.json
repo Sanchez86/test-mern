@@ -1,6 +1,0 @@
-{
-    "port": 5000,
-    "jwtSecret": "Konev Alex MERN",
-    "mongoUri": "",
-    "baseUrl": "http://localhost:5000"
-}
