@@ -1,6 +1,6 @@
 {
     "port": 5000,
     "jwtSecret": "Konev Alex MERN",
-    "mongoUri": "mongodb+srv://AlexandrKonev:AlexandrKonev@cluster0.fdvic.mongodb.net/app?retryWrites=true&w=majority",
+    "mongoUri": "",
     "baseUrl": "http://localhost:5000"
 }
